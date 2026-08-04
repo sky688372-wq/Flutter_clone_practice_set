@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:table_calendar/table_calendar.dart';
 
+//테이블 캘린더 파라미터 알아보기 용 페이지
 // 상태 변경이 가능한 StatefulWidget으로 클래스 선언
 class CalenderScreen extends StatefulWidget {
   const CalenderScreen({super.key});
