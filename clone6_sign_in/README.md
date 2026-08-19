@@ -1,3 +1,5 @@
+원본 출처(피그마) : https://www.figma.com/community/file/1370757927948360864
+
 ### 화면 사진
 <img width="1080" height="2340" alt="Screenshot_20260819_172847" src="https://github.com/user-attachments/assets/c366b42e-9f40-4484-803e-964e7379bb22" />
 
