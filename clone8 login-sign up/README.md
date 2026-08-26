@@ -2,13 +2,15 @@
 - 디자인 출처 : https://www.figma.com/community/file/1282291722642517542
 
 ## 1. 웰컴 화면
-<img width="428" height="926" alt="Welcome Screen" src="https://github.com/user-attachments/assets/65ef9935-c8e0-4682-b448-87140d2abb19" />
+<img width="1080" height="2340" alt="Screenshot_20260826_183335" src="https://github.com/user-attachments/assets/9eb030e5-2bb9-4471-9afb-9d02e398934a" />
+
 
 ## 2. 로그인 화면
-<img width="428" height="926" alt="Login Screen" src="https://github.com/user-attachments/assets/731fda83-6d01-44ca-867d-09019097df1c" />
+<img width="1080" height="2340" alt="Screenshot_20260826_183341" src="https://github.com/user-attachments/assets/4bd1e2f5-27af-4cf6-946e-0640cb21f818" />
 
 ## 3. 회원가입 화면
-<img width="428" height="926" alt="Register Screen" src="https://github.com/user-attachments/assets/52d196cf-9e84-4e07-a3dc-0db79656219c" />
+<img width="1080" height="2340" alt="Screenshot_20260826_183350" src="https://github.com/user-attachments/assets/042e7143-51ea-4088-8959-db9ba130e5f1" />
+
 
 ## 4. 실행 화면
 <img width="400" height="867" alt="Screen_recording_20260826_183406" src="https://github.com/user-attachments/assets/f4a39b1f-f6e5-4d71-a1d9-cab0bb89d478" />
