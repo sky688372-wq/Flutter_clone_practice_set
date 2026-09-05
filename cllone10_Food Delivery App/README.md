@@ -1,3 +1,6 @@
+# 디자인 출처
+Food Delivery App UI Kit Food App Design Food Mobile App Delivery UI : https://www.figma.com/community/file/1350568717710815378
+
 ## 1. 스플래쉬 화면
 <img width="270" height="585" alt="Screenshot_20260905_212253" src="https://github.com/user-attachments/assets/d1ac3e55-9085-4867-9a77-ce36027091a6" />
 
