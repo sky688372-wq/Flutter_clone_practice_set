@@ -24,6 +24,8 @@
 ---
 
 ## 0. 들어가기 전
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c2b6d20-5859-4141-871b-864b24e41028" />
+
 
 오늘은 [provider](https://velog.io/@han090213/%EC%A0%9C%EB%A1%9C%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-provider) 상태 관리 라이브러리를 사용해서 클론 코딩을 하는 것을 목표로 했다.
 
